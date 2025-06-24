@@ -1,78 +1,71 @@
 <h1 align="center">Hi 👋, I'm Nishant Sankar Swain</h1>
-<h3 align="center">🚀 Full Stack Web Developer | AI/ML Enthusiast | Physics/Math Educator | Freelancer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79E1B&center=true&width=800&lines=🧑‍💻+Full+Stack+Web+Developer;🔍+AI+%2F+ML+Enthusiast;🎓+Physics+%2F+Math+Mentor;💼+Freelancer+Developer;🌐+Passionate+Tech+Leader+%26+Problem+Solver" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=🚀+Full+Stack+Web+Developer;🎨+Website+Designer;📊+AI+%2F+ML+Engineer;📚+Physics+%26+Math+Enthusiast;🧠+NLP+%26+Voicebot+Creator;👨‍💻+Freelancer+%26+Tech+Mentor;🔬+Arduino+%2F+IoT+Innovator;💡+Hackathon+Champion" alt="Typing SVG" />
+</h3>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m **Nishant Sankar Swain**, a passionate and result-oriented **Full Stack Developer** and **AI/ML Enthusiast** from **Bhubaneswar, Odisha**, currently in my 3rd year at **ITER, SOA University**.
+I’m **Nishant Sankar Swain**, a passionate and innovative **Full Stack Developer** and **AI/ML enthusiast** from **Bhubaneswar, Odisha**.  
+Currently pursuing B.Tech in **Computer Science (6th Sem)** at **ITER, SOA University**, I thrive at the intersection of **code, creativity, and real-world problem solving**.
 
-I specialize in building **robust, scalable, and user-centric web platforms** that address real-world problems through the intersection of software engineering and AI. My work often blends creativity, intuitive UI, and functional backend architecture.
+💡 I specialize in designing scalable systems, multilingual AI chatbots, and interactive UIs.  
+🎯 My mission is to build impactful tech that’s accessible, inclusive, and future-ready.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:**  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-
-**Backend:**  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Python Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Databases & APIs:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-1f6feb?style=flat&logo=api&logoColor=white)
-![Bhashini](https://img.shields.io/badge/-Bhashini-FFDD00?style=flat)
-
-**Other Tools:**  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+```bash
+💻 Languages:     Java | Python | PHP | JavaScript | C/C++
+🌐 Frontend:      HTML5 | CSS3 | Bootstrap | React | jQuery
+🔧 Backend:       Node.js | Express.js | Flask | PHP
+🗃️ Databases:     MySQL | MongoDB | Firebase
+🤖 AI/ML/NLP:     HuggingFace | OpenAI | Bhashini API | Python NLP
+🔌 APIs & Tools:  Git | XAMPP | Arduino | Netlify | Vercel | Figma
+```
 
 ---
 
-## 🚀 Highlighted Projects
+## 🚀 Projects That Inspire
 
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| 🌐 **Portfolio Website** | A personal showcase of projects, skills & certifications | [Visit](https://www.nishantsankar.online/) |
-| 📝 **SAMS** | Student Academic Management System | [Visit](https://nishant-sams-2024.netlify.app/login) |
-| 🧑‍🎨 **CTMS** | Culture Troupe Management System (Govt-verified) | [Visit](https://ctms-odisha.netlify.app/govt_odisha_ctms) |
-| 📚 **Rural EduConnect** | Offline learning platform for rural education | [Visit](https://e-n-c-o-d-e-s.vercel.app/) |
-| 🚜 **Kissan-Seva** | Fintech app for farmers (Build-A-Thon Runners-Up) | [Visit](https://kisan-seva-psi.vercel.app/dashboard) |
-| 🧠 **Jan-AI Mitra** | AI chatbot with multilingual voice support (NLP) | [Visit](https://jan-aimitra.netlify.app/digitaltech.html) |
-| 💹 **Quants AI Website** | Client website for a trading company | [Visit](https://quantsai.netlify.app/) |
-| 🧮 **Finovate** | Budget forecasting using ML (Winner - IIT Bhubaneswar) | [Visit](https://finovategift.vercel.app/template/home.html) |
-| 🛠️ **Tecken Showdown** | Event website built during Hackathon | [Visit](https://showdown2k25.vercel.app/) |
+| 💻 Project | 🔗 Link | 📝 Description |
+|-----------|---------|----------------|
+| 🌐 **Portfolio** | [nishantsankar.online](https://www.nishantsankar.online) | Personal site showcasing my work, projects & certifications |
+| 📝 **SAMS** | [View](https://nishant-sams-2024.netlify.app/login) | Web app for academic form management |
+| 🎭 **CTMS** | [View](https://ctms-odisha.netlify.app/govt_odisha_ctms) | Government culture group management system |
+| 🌾 **Kissan Seva** | [View](https://kisan-seva-psi.vercel.app/dashboard) | Fintech solution for farmers - 1st Runners-Up Build-A-Thon |
+| 🌱 **EduConnect** | [View](https://e-n-c-o-d-e-s.vercel.app/) | Offline rural education platform |
+| 🧠 **Jan-AI Mitra** | [View](https://jan-aimitra.netlify.app/digitaltech.html) | Multilingual chatbot using NLP + speech synthesis |
+| 💹 **Quants AI** | [View](https://quantsai.netlify.app/) | Professional website for a trading company |
+| 🧮 **Finovate** | [View](https://finovategift.vercel.app/template/home.html) | Hackathon-winning ML project for government budgeting |
+| 🧱 **Showdown Hackathon** | [View](https://showdown2k25.vercel.app/) | Event website for TSD 2K25 Hackathon |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner – **Hackathon at IIT Bhubaneswar** (Finovate)
-- 🥈 1st Runners-Up – **Build-A-Thon**, Silicon Institute of Technology
-- 👨‍💻 Tech Lead – **Geek Room Odisha**
-- 🤖 Lead Developer – **AI/NLP Chatbot for Public Platforms**
-- 📜 Certified – Java (Infosys), JavaScript & Python (HackerRank), C# (NextGenDev)
+- 🥇 **1st Place** – Hackathon at IIT Bhubaneswar
+- 🥈 **1st Runners-Up** – Build-A-Thon, Silicon Institute of Technology
+- 💡 **Tech Lead** – Geek Room Odisha
+- 🧠 **Top 5 Finalist** – SIH Internal Round
+- 🎖️ Certified in Java, Python, JS (HackerRank), C# (NextGenDev), Infosys Springboard
+
+---
+
+## 🎮 GitHub Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nishant18S/Nishant18S/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=tokyonight" alt="Nishant GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
@@ -81,11 +74,11 @@ I specialize in building **robust, scalable, and user-centric web platforms** th
 ## 📫 Let's Connect
 
 - 📧 **Email:** nishant.sankar2003@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/nishant-sankar-swain-1abb71246](https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/)  
-- 💻 **GitHub:** [github.com/Nishant18S](https://github.com/Nishant18S)  
-- 🌐 **Portfolio:** [nishantsankar.online](https://www.nishantsankar.online/)  
-- 📷 **Instagram:** [@nishant_sankar](https://www.instagram.com/nishant_sankar/)
+- 💼 **LinkedIn:** [linkedin.com/in/nishant-sankar-swain](https://linkedin.com/in/nishant-sankar-swain-1abb71246)  
+- 💻 **GitHub:** [Nishant18S](https://github.com/Nishant18S)  
+- 🌐 **Portfolio:** [nishantsankar.online](https://www.nishantsankar.online)  
+- 📷 **Instagram:** [@nishant_sankar](https://www.instagram.com/nishant_sankar)
 
 ---
 
-> _"Code with purpose. Build with passion. Grow with impact."_ ✨
+> _"Code with clarity. Build with heart. Innovate with purpose."_ ✨
