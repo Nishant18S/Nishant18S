@@ -1,47 +1,91 @@
-<!-- Header with Animated Typing and AI Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&duration=4000&pause=1000&color=22D3EE&width=600&lines=👋+Hi,+I'm+Nishant+Sankar+Swain;💻+Full+Stack+AI+Developer;🧠+Machine+Learning+Engineer;📚+Physics+%26+Maths+Educator;🚀+Open+Source+Contributor" alt="Typing Animation" />
+<h1 align="center">Hi 👋, I'm Nishant Sankar Swain</h1>
+<h3 align="center">🚀 Full Stack Web Developer | AI/ML Enthusiast | Physics/Math Educator | Freelancer</h3>
 
-  ![AI Developer Banner](https://github.com/Nishant18S/Nishant18S/assets/63164037/5a5d6f3e-5d3f-4d6e-8e1e-9d0b5b5b5b5b) <!-- Replace with your banner GIF -->
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Nishant18S&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-    <a href="https://github.com/Nishant18S?tab=followers">
-      <img src="https://img.shields.io/github/followers/Nishant18S?label=Followers&style=social" alt="GitHub followers">
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F79E1B&center=true&width=800&lines=🧑‍💻+Full+Stack+Web+Developer;🔍+AI+%2F+ML+Enthusiast;🎓+Physics+%2F+Math+Mentor;💼+Freelancer+Developer;🌐+Passionate+Tech+Leader+%26+Problem+Solver" alt="Typing SVG" />
+</p>
 
-<br/>
+---
 
-<!-- Animated About Me Section -->
-<details open> 
-  <summary><h2 style="display: inline-block; font-family: 'Segoe UI', Tahoma, sans-serif">✨ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2></summary>
-  
-  ```python
-  # AI-Powered Developer Profile
-  class Developer:
-      def __init__(self):
-          self.name = "Nishant Sankar Swain"
-          self.title = "Full Stack AI Engineer"
-          self.education = "B.Tech CSE @ ITER, SOA University"
-          self.skills = {
-              "AI/ML": ["TensorFlow", "PyTorch", "OpenCV", "NLP"],
-              "Frontend": ["React", "Next.js", "Three.js"],
-              "Backend": ["Node.js", "Flask", "FastAPI"],
-              "Database": ["MongoDB", "PostgreSQL", "Firebase"],
-              "DevOps": ["Docker", "GitHub Actions", "AWS"]
-          }
-          self.interests = ["Quantum Computing", "Generative AI", "EdTech"]
-      
-      def build(self):
-          return "Innovative AI solutions for real-world problems"
+## 🧑‍💻 About Me
 
-  me = Developer()
-</details>
-<!-- Animated Tech Stack Section --><h2 align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif">🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤</h2><div align="center"> <!-- AI/ML Skills --> <h3>🤖 𝐀𝐈/𝐌𝐋 𝐒𝐤𝐢𝐥𝐥𝐬</h3> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"> <!-- Web Development --> <h3>🌐 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭</h3> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"> <!-- DevOps --> <h3>🔧 𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐓𝐨𝐨𝐥𝐬</h3> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> </div>
-<!-- Projects Section with Animated Cards --><h2 align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif">🚀 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐝 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬</h2><div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Jan-AI Mitra</h3> <div align="center"> <a href="https://jan-aimitra.netlify.app"> <img src="https://github.com/Nishant18S/Nishant18S/assets/63164037/5a5d6f3e-5d3f-4d6e-8e1e-9d0b5b5b5b5b" width="400" height="200" alt="AI Chatbot"/> </a> <p>Multilingual AI assistant with voice interaction</p> <p><strong>Tech:</strong> Python, Transformers, React, Node.js</p> <a href="https://github.com/Nishant18S/Jan-AI-Mitra"> <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"> </a> </div> </td> <td width="50%"> <h3 align="center">Finovate AI</h3> <div align="center"> <a href="https://finovategift.vercel.app"> <img src="https://github.com/Nishant18S/Nishant18S/assets/63164037/5a5d6f3e-5d3f-4d6e-8e1e-9d0b5b5b5b5b" width="400" height="200" alt="Budget AI"/> </a> <p>AI-powered budget prediction system</p> <p><strong>Tech:</strong> Python, TensorFlow, Flask</p> <a href="https://github.com/Nishant18S/Finovate"> <img src="https://img.shields.io/badge/Code-View%20on%20GitHub-blue?style=for-the-badge&logo=github"> </a> </div> </td> </tr> </table> </div>
-<!-- GitHub Stats with Animation --><h2 align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif">📈 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬</h2><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=react-dark&hide_border=true&area=true" width="90%"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nishant18S&theme=github_dark" width="90%"> <img src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=radical&include_all_commits=true" width="45%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=radical&langs_count=8" width="45%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant18S&theme=radical" width="90%"> </div>
-<!-- Achievements Section --><h2 align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif">🏆 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬</h2><div align="center"> <table> <tr> <td> <img src="https://img.shields.io/badge/Hackathon-Winner-blue?style=for-the-badge&logo=github" alt="Hackathon Winner"> </td> <td> <img src="https://img.shields.io/badge/Build--A--Thon-1st%20Runner--Up-blue?style=for-the-badge" alt="Build-A-Thon"> </td> </tr> <tr> <td> <img src="https://img.shields.io/badge/Java-5⭐%20HackerRank-blue?style=for-the-badge&logo=hackerrank" alt="Java 5 Star"> </td> <td> <img src="https://img.shields.io/badge/AI%20Researcher-Published-blue?style=for-the-badge&logo=google-scholar" alt="AI Researcher"> </td> </tr> </table> <details> <summary><b>View All Certifications</b></summary> <br/> <img src="https://img.shields.io/badge/Infosys_Springboard-Java_Certified-blue?style=flat-square"> <img src="https://img.shields.io/badge/Google_AI-ML_Crash_Course-blue?style=flat-square"> <img src="https://img.shields.io/badge/Coursera-Deep_Learning_Specialization-blue?style=flat-square"> </details> </div>
-<!-- Contact Section with Animated Icons --><h2 align="center" style="font-family: 'Segoe UI', Tahoma, sans-serif">📫 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞</h2><div align="center"> <a href="https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.nishantsankar.online/"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="mailto:nishant.sankar2003@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a> <a href="https://twitter.com/yourhandle"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </div>
-<!-- Footer with Animated Message --><div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=20&duration=3000&pause=1000&color=22D3EE&center=true&width=600&lines=Let's+collaborate+on+innovative+AI+projects!;Building+the+future+with+code+and+creativity;Open+to+new+opportunities+and+challenges" alt="Footer Animation" /> <p>⭐️ From <a href="https://github.com/Nishant18S">Nishant Sankar Swain</a></p> </div> ```
+I’m **Nishant Sankar Swain**, a passionate and result-oriented **Full Stack Developer** and **AI/ML Enthusiast** from **Bhubaneswar, Odisha**, currently in my 3rd year at **ITER, SOA University**.
+
+I specialize in building **robust, scalable, and user-centric web platforms** that address real-world problems through the intersection of software engineering and AI. My work often blends creativity, intuitive UI, and functional backend architecture.
+
+---
+
+## 🔧 Tech Stack
+
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+
+**Backend:**  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Python Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Databases & APIs:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-1f6feb?style=flat&logo=api&logoColor=white)
+![Bhashini](https://img.shields.io/badge/-Bhashini-FFDD00?style=flat)
+
+**Other Tools:**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Highlighted Projects
+
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| 🌐 **Portfolio Website** | A personal showcase of projects, skills & certifications | [Visit](https://www.nishantsankar.online/) |
+| 📝 **SAMS** | Student Academic Management System | [Visit](https://nishant-sams-2024.netlify.app/login) |
+| 🧑‍🎨 **CTMS** | Culture Troupe Management System (Govt-verified) | [Visit](https://ctms-odisha.netlify.app/govt_odisha_ctms) |
+| 📚 **Rural EduConnect** | Offline learning platform for rural education | [Visit](https://e-n-c-o-d-e-s.vercel.app/) |
+| 🚜 **Kissan-Seva** | Fintech app for farmers (Build-A-Thon Runners-Up) | [Visit](https://kisan-seva-psi.vercel.app/dashboard) |
+| 🧠 **Jan-AI Mitra** | AI chatbot with multilingual voice support (NLP) | [Visit](https://jan-aimitra.netlify.app/digitaltech.html) |
+| 💹 **Quants AI Website** | Client website for a trading company | [Visit](https://quantsai.netlify.app/) |
+| 🧮 **Finovate** | Budget forecasting using ML (Winner - IIT Bhubaneswar) | [Visit](https://finovategift.vercel.app/template/home.html) |
+| 🛠️ **Tecken Showdown** | Event website built during Hackathon | [Visit](https://showdown2k25.vercel.app/) |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Winner – **Hackathon at IIT Bhubaneswar** (Finovate)
+- 🥈 1st Runners-Up – **Build-A-Thon**, Silicon Institute of Technology
+- 👨‍💻 Tech Lead – **Geek Room Odisha**
+- 🤖 Lead Developer – **AI/NLP Chatbot for Public Platforms**
+- 📜 Certified – Java (Infosys), JavaScript & Python (HackerRank), C# (NextGenDev)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 **Email:** nishant.sankar2003@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/nishant-sankar-swain-1abb71246](https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/)  
+- 💻 **GitHub:** [github.com/Nishant18S](https://github.com/Nishant18S)  
+- 🌐 **Portfolio:** [nishantsankar.online](https://www.nishantsankar.online/)  
+- 📷 **Instagram:** [@nishant_sankar](https://www.instagram.com/nishant_sankar/)
+
+---
+
+> _"Code with purpose. Build with passion. Grow with impact."_ ✨
