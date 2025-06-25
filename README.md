@@ -242,9 +242,11 @@ const nishant = {
 ---
 
 <div align="center">
-  <img src="https://github.com/Nishant18S/Nishant18S/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-  
+  <!-- Snake Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/Nishant18S/Nishant18S/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
   <br/><br/>
-  
+
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9D&center=true&width=700&lines=Thanks+for+visiting+my+profile!+🚀;Open+to+collaborating+on+CV+%26+AI+projects;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+📈" alt="Closing Message"/>
 </div>
