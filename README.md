@@ -1,26 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=4AF626&center=true&vCenter=true&width=600&height=80&lines=Nishant+Sankar+Swain" alt="Animated Name"/>
-  
-  <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=20F6D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Tech+Educator;Open+Source+Contributor" alt="Animated Titles"/>
-  </h3>
-  
-  <div>
-    <a href="https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.nishantsankar.online/">
-      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="mailto:nishant.sankar2003@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/Nishant18S?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-    </a>
-  </div>
-</div>
-
 # 💻 Nishant Sankar Swain
 
 ### 👋 Hi, I’m @Nishant18S!  
@@ -123,11 +100,12 @@ I'm passionate about coding, technology, and building real-world solutions with 
 
 ## 📊 GitHub Stats
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/> 
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Nishant18S&theme=github-dark&hide_border=true" alt="GitHub Streak"/> 
-</div> 
+## 📊 GitHub Stats
+
+![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=radical)
+
+---
 
 <div align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/> 
