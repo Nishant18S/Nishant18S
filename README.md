@@ -327,28 +327,3 @@ const cvSkills = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FFD1&center=true&width=600&lines=Let's+build+the+future+of+computer+vision+together!;Open+to+collaborations+and+new+opportunities;Reach+out+via+any+of+the+links+above;Thanks+for+visiting+my+profile!+🚀" alt="Closing Message"/>
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=121212" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=121212" alt="Top Languages"/>
-
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=Nishant18S&theme=radical&hide_border=true" alt="GitHub Streak"/>
-
-  <br/>
-  <img src="https://raw.githubusercontent.com/Nishant18S/Nishant18S/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=react-dark&hide_border=true&area=true&bg_color=121212" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏁 Closing Note
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFD1&width=600&lines=Let's+build+the+future+of+computer+vision+together!;Open+to+collaborations+and+new+opportunities;Reach+out+via+any+of+the+links+above;Thanks+for+visiting+my+profile!+🚀" alt="Closing Message"/>
-</div>
