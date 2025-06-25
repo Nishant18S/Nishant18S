@@ -5,10 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=20F6D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Tech+Educator;Open+Source+Contributor" alt="Animated Titles"/>
   </h3>
   
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1500&color=A9FEF7&center=true&vCenter=true&width=800&lines=Building+scalable+solutions+at+the+intersection+of+code+and+creativity;Passionate+about+mentoring+the+next+generation+of+developers;Turning+complex+problems+into+elegant+solutions" alt="Mission Statement"/>
-  </p>
-  
   <div>
     <a href="https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -27,47 +23,42 @@
 
 ---
 
-## 🛠 Technical Expertise
+## 🎮 Interactive GitHub Game
 
-### Core Competencies
-```javascript
-const skills = {
+```diff
+# Guess the Tech Stack Challenge!
++ Hint 1: I built an AI chatbot using this NLP framework
++ Hint 2: It's a Python library for machine learning
+! Guess: TensorFlow ✅ (Correct!)
+const techStack = {
   languages: ["JavaScript", "Python", "PHP", "Java"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Material UI"],
-  backend: ["Node.js", "Express", "Flask", "Laravel"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  backend: ["Node.js", "Express", "Flask"],
   databases: ["MySQL", "MongoDB", "Firebase"],
-  devOps: ["Docker", "GitHub Actions", "AWS"],
-  machineLearning: ["TensorFlow", "NLP", "Scikit-learn"],
-  tools: ["Git", "Figma", "Postman", "Arduino"]
+  ai_ml: ["TensorFlow", "NLP", "Dialogflow"],
+  tools: ["Git", "Docker", "Figma"]
 };
-Technology Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,react,nextjs,nodejs,express,flask,laravel,mysql,mongodb,firebase,tensorflow,docker,aws,git,figma,postman,arduino&perline=11" alt="Tech Stack"/> </div>
-🏆 Notable Projects
-Project	Description	Technologies	Links
-SAMS	Student Academic Management System	MERN Stack	Live • Code
-CTMS	Govt-verified Culture Troupe System	PHP, MySQL	Live • Code
-Jan-AI Mitra	Multilingual AI Chatbot	Python, NLP	Live • Code
-Finovate	ML-powered Budget Forecasting	Flask, Scikit-learn	Live • Code
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,py,php,react,nextjs,nodejs,express,flask,mysql,mongodb,firebase,tensorflow,docker,git,figma&perline=8" alt="Tech Stack"/> </div>
+🚀 Projects That Inspire
+💻 Project	🔗 Link	📝 Description	🛠 Technologies
+🌐 Portfolio	Live	Personal showcase of work & certifications	React, Three.js
+📝 SAMS	View	Academic form management system	MERN Stack
+🎭 CTMS	View	Govt culture group management system	PHP, MySQL
+🌾 Kissan Seva	View	Fintech for farmers (Build-A-Thon Finalist)	React, Firebase
+🧠 Jan-AI Mitra	View	Multilingual NLP chatbot	Python, Bhashini API
+💹 Quants AI	View	Professional trading company website	JavaScript, GSAP
+🧮 Finovate	View	ML budgeting tool (Hackathon Winner)	Flask, Scikit-learn
 📈 GitHub Analytics
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/> <img height="180em" src="https://streak-stats.demolab.com/?user=Nishant18S&theme=github-dark&hide_border=true" alt="GitHub Streak"/> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/> </div>
-🏅 Achievements
-🥇 Winner - Hackathon at IIT Bhubaneswar (Finovate)
+🏅 Honors & Achievements
+🥇 Winner - Hackathon @ IIT Bhubaneswar (Finovate)
 
-🥈 1st Runners-Up - Build-A-Thon, Silicon Institute
+🥈 1st Runners-Up - Build-A-Thon @ Silicon Institute
 
 🏆 Certified - Java (Infosys), JavaScript & Python (HackerRank)
 
-📢 Tech Lead - Geek Room Odisha
+🚀 Tech Lead - Geek Room Odisha community
 
-🤖 AI Developer - Created multilingual chatbot for public platforms
+🤖 AI Innovator - Created multilingual public service chatbot
 
-✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-Building Scalable MERN Applications
-
-Introduction to NLP with Python
-
-The Future of AI in Education
-
-<!-- BLOG-POST-LIST:END -->
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/> <p>Let's connect and build something amazing together!</p> <img src="https://komarev.com/ghpvc/?username=Nishant18S&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/> <p>Let's collaborate on something extraordinary!</p> <img src="https://komarev.com/ghpvc/?username=Nishant18S&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/> </div> ```
