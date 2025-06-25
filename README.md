@@ -1,137 +1,52 @@
-# 💻 Nishant Sankar Swain
-
-### 👋 Hi, I’m @Nishant18S!  
-I'm passionate about coding, technology, and building real-world solutions with a purpose.
-
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=4AF626&center=true&vCenter=true&width=600&height=80&lines=Nishant+Sankar+Swain" alt="Animated Name"/>
-
+  <!-- Animated Header with Computer Vision Theme -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=00FF9D&center=true&vCenter=true&width=600&height=80&lines=Nishant+Sankar+Swain" alt="Animated Name"/>
+  
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=20F6D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Engineer;Tech+Educator;Open+Source+Contributor" alt="Animated Titles"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=00D1FF&center=true&vCenter=true&width=600&lines=Computer+Vision+Engineer;Full+Stack+Developer;AI%2FML+Specialist;OpenCV+Enthusiast" alt="Animated Titles"/>
   </h3>
 
-  <div>
+  <!-- Computer Vision Animated Banner -->
+  <img src="https://github.com/Nishant18S/Nishant18S/blob/main/assets/cv-banner.gif?raw=true" width="800" alt="Computer Vision Banner"/>
+  
+  <!-- Animated Social Links -->
+  <p>
     <a href="https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121212" alt="LinkedIn"/>
     </a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=1500&pause=500&color=00FFD1&center=true&vCenter=true&width=200&lines=Let's+connect!" alt="Connect Prompt"/>
     <a href="https://www.nishantsankar.online/">
-      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=121212" alt="Portfolio"/>
     </a>
-    <a href="mailto:nishant.sankar2003@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/Nishant18S?tab=repositories">
-      <img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-    </a>
-  </div>
+  </p>
 </div>
 
 ---
 
-## 🎓 About Me
+## 🎮 Interactive Tech Challenge
 
-- 🎓 B.Tech (CSE) | 6th Semester | ITER, SOA University  
-- 👀 Interested in *Java Development*, *Web Development*, and *Real-time Projects*  
-- 🌱 Currently learning *C/C++*, *Python*, and expanding my full-stack skills  
-- 💞 Open to collaborate on *Open Source*, *Web Projects*, or *Data Analytics*  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy *Cricket*, *nature trails*, and vibing to good music 🎵  
-
----
-
-## 🛠 Skills & Tools
-
-- 💻 Languages: Java, PHP, SQL, HTML, CSS, JavaScript, C, C++, Python  
-- 🛠 Tools: XAMPP, VS Code, Git, Oracle DB, phpMyAdmin  
-- 🌐 Frontend: HTML, CSS, Bootstrap, jQuery  
-- 🔧 Backend: PHP, MySQL  
-- 🌍 APIs: Bhashini (Speech-to-Text, Translation, TTS, Grievance)
-
----
-
-## 🛠 Tech Stack
-
-<div align="center"> 
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/> 
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> 
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> 
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> 
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-</div>
-
----
-
-## 🚀 Projects That Inspire
-
-| 💻 Project | 🔗 Link | 📝 Description |
-|-----------|---------|----------------|
-| 🌐 *Portfolio* | [nishantsankar.online](https://www.nishantsankar.online) | Personal site showcasing my work, projects & certifications |
-| 📝 *SAMS* | [View](https://nishant-sams-2024.netlify.app/login) | Web app for academic form management |
-| 🎭 *CTMS* | [View](https://ctms-odisha.netlify.app/govt_odisha_ctms) | Government culture group management system |
-| 🌾 *Kissan Seva* | [View](https://kisan-seva-psi.vercel.app/dashboard) | Fintech solution for farmers - 1st Runners-Up Build-A-Thon |
-| 🌱 *EduConnect* | [View](https://e-n-c-o-d-e-s.vercel.app/) | Offline rural education platform |
-| 🧠 *Jan-AI Mitra* | [View](https://jan-aimitra.netlify.app/digitaltech.html) | Multilingual chatbot using NLP + speech synthesis |
-| 💹 *Quants AI* | [View](https://quantsai.netlify.app/) | Professional website for a trading company |
-| 🧮 *Finovate* | [View](https://finovategift.vercel.app/template/home.html) | Hackathon-winning ML project for government budgeting |
-| 🧱 *Showdown Hackathon* | [View](https://showdown2k25.vercel.app/) | Event website for TSD 2K25 Hackathon |
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Ranked Team – Hackathon @ IIT Bhubaneswar  
-- 🥈 1st Runner-Up – Build-A-Thon  
-- 🧠 Top 5 Finalist – SIH Internal Round  
-- 💡 Tech Lead – Geek Room Odisha  
-- 🧠 5⭐ Java – HackerRank  
-- 🎖 Internships: Code Alpha, NextGen Dev, Cognifyz, CodeClause  
-- 📜 Java Certified – Infosys Springboard  
-
----
-
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![Nishant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=radical)
-
----
-
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/> 
-</div>
-
----
-
-## 📫 Connect with Me
-
-- 📧 Email: nishant.sankar2003@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/nishant-sankar-swain-1abb71246](https://www.linkedin.com/in/nishant-sankar-swain-1abb71246/)  
-- 🌐 Portfolio: [nishantsankar.online](https://www.nishantsankar.online/)
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
-  <p><b>Let's collaborate on something extraordinary!</b></p>
-  <img src="https://komarev.com/ghpvc/?username=Nishant18S&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</div>
-
----
-
-> "Code with purpose. Build with passion. Grow with impact."
-
-<!---
-Nishant18S/Nishant18S is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```diff
+# Computer Vision Quiz!
++ Hint 1: I use this library for real-time object detection
++ Hint 2: It's written in C++ but has Python bindings
+! Guess: OpenCV ✅ (Perfect!)
+👁️ Computer Vision Expertise
+javascript
+const cvSkills = {
+  libraries: ["OpenCV", "Dlib", "MediaPipe", "TensorFlow.js"],
+  techniques: ["Object Detection", "Facial Recognition", "Optical Flow", "Image Segmentation"],
+  applications: ["AR/VR", "Medical Imaging", "Autonomous Vehicles", "Industrial Inspection"],
+  projects: ["Smart Surveillance", "Gesture Control", "Document Scanner", "Pose Estimation"]
+};
+<div align="center"> <img src="https://github.com/Nishant18S/Nishant18S/blob/main/assets/opencv-demo.gif?raw=true" width="400" alt="OpenCV Demo"/> </div>
+🛠️ Full Tech Stack
+<div align="center"> <!-- Animated Skill Bars --> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&lineCount=2&theme=github_dark&line1=python,python,3776AB;opencv,opencv,5C3EE8;tensorflow,tensorflow,FF6F00;keras,keras,D00000&line2=react,react,61DAFB;node.js,nodejs,339933;mongodb,mongodb,47A248;aws,aws,232F3E" alt="Tech Stack Cards"/> <!-- Rotating Skill Icons --> <img src="https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch,react,nodejs,mongodb,aws,docker,git&perline=10&theme=dark" alt="Skill Icons"/> </div>
+🚀 Featured Projects
+<div align="center"> <table> <tr> <td width="33%"> <h3>👁️ Computer Vision</h3> <ul> <li><b>Smart Surveillance</b> - Real-time object tracking</li> <li><b>Gesture Control</b> - Hand gesture recognition</li> <li><b>Document Scanner</b> - Perspective correction</li> </ul> </td> <td width="33%"> <h3>🌐 Web Development</h3> <ul> <li><b>SAMS</b> - Academic management</li> <li><b>CTMS</b> - Govt culture system</li> <li><b>Portfolio</b> - Interactive showcase</li> </ul> </td> <td width="33%"> <h3>🧠 AI/ML</h3> <ul> <li><b>Jan-AI Mitra</b> - Multilingual chatbot</li> <li><b>Finovate</b> - Budget forecasting</li> <li><b>Kissan Seva</b> - Farmer fintech</li> </ul> </td> </tr> </table> </div>
+📊 GitHub Analytics
+<div align="center"> <!-- Animated Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nishant18S&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=121212" alt="GitHub Stats"/> <!-- 3D Language Chart --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant18S&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8&bg_color=121212" alt="Top Languages"/> <!-- Snake Eating Contributions --> <img src="https://github.com/Nishant18S/Nishant18S/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/> <!-- Activity Graph --> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=react-dark&hide_border=true&area=true&bg_color=121212" alt="Activity Graph"/> </div>
+🏆 Achievements
+<div align="center"> <!-- Trophy Case --> <img src="https://github-profile-trophy.vercel.app/?username=Nishant18S&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/> <!-- Badges Carousel --> <img src="https://github.com/Nishant18S/Nishant18S/blob/main/assets/badges-carousel.gif?raw=true" width="600" alt="Achievement Badges"/> </div>
+🌟 Support My Work
+<div align="center"> <!-- Animated Support Button --> <a href="https://github.com/sponsors/Nishant18S"> <img src="https://github.com/Nishant18S/Nishant18S/blob/main/assets/sponsor-button.gif?raw=true" width="300" alt="Sponsor Button"/> </a> <!-- Coffee Animation --> <img src="https://github.com/Nishant18S/Nishant18S/blob/main/assets/coffee.gif?raw=true" width="100" alt="Coffee"/> </div>
+<div align="center"> <!-- Waving Footer --> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/> <!-- Final Message --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FFD1&center=true&width=600&lines=Let's+build+the+future+of+computer+vision+together!;Open+to+collaborations+and+new+opportunities;Reach+out+via+any+of+the+links+above" alt="Closing Message"/> <!-- View Counter --> <img src="https://komarev.com/ghpvc/?username=Nishant18S&label=Profile+Views&color=00FF9D&style=flat" alt="Profile Views"/> </div> ```
