@@ -231,7 +231,7 @@ const cvSkills = {
   <img src="https://streak-stats.demolab.com/?user=Nishant18S&theme=radical&hide_border=true" alt="GitHub Streak"/>
   
   <br/>
-  <img src="https://raw.githubusercontent.com/Nishant18S/Nishant18S/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nishant18S&theme=react-dark&hide_border=true&area=true&bg_color=121212" alt="Activity Graph"/>
 </div>
 
@@ -332,13 +332,13 @@ const cvSkills = {
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFD1&width=800&center=true&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+the+future+of+computer+vision+together!;Open+to+collaborations+and+new+opportunities!" alt="Typing Message"/>
 
   <!-- Particle Animation Background (Dark Mode Friendly) -->
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/particles.gif" width="100%" alt="Particle Animation"/>
+  
 
   <!-- Firefly/Glowing Effect -->
   <img src="https://raw.githubusercontent.com/Akshay090/Animated-GIFs/main/firefly.gif" width="300" alt="Firefly Effect"/>
 
   <!-- Sparkle Emojis -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=FFDD00&center=true&width=600&lines=✨+Stay+Curious+%26+Keep+Exploring+✨" alt="Sparkle Typing"/>
+ 
   
   <!-- Contribution Snake (raw link) -->
   
