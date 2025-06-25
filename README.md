@@ -329,7 +329,7 @@ const cvSkills = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" alt="Footer Wave"/>
 
   <!-- Typing SVG Animated Message -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFD1&width=800&center=true&lines=Thanks+for+visiting+my+profile!+🚀;Let's+build+the+future+of+computer+vision+together!;Open+to+collaborations+and+new+opportunities!" alt="Typing Message"/>
+  
 
   <!-- Particle Animation Background (Dark Mode Friendly) -->
   
